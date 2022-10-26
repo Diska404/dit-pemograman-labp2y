@@ -1,56 +1,66 @@
 
 
-#Instalasi python di windows 11, menggunakan VScode
+Cara instalasi python pada windows 11
 
-Note
 
-    Bagi pengguna Linux, Python tidak perlu diinstal. Karena Sebagian besar distro Linux sudah menyediakannya secara default.
+    1. Buka browser lalu ketik "Python download"
+    2. Buka website www.python.org
+    
+    
+![Screenshot (116)](https://user-images.githubusercontent.com/115615910/197951732-7cec8676-ecef-4652-92ae-68c33d40b177.png)
 
-    Bagi pengguna Windows, Download di situs resmi python (python.org). Ikuti langkah instalasinya.
 
-    Buka website www.python.org
+    3. Klik menu download lalu klik Pytho 3.11.0
+    
+   ![Screenshot (106)](https://user-images.githubusercontent.com/115615910/197952157-c35a2517-38c3-4b90-9814-04efaebf6f4b.png)
 
-    Klik menu download lalu pilih sesuai versi device kalian, di sini saya mendownload windows64bit.exe 1
+   
 
-    Setelah download, install python. klik install now & jangan lupa centang add python.exe to PATH 2
+    4. Setelah selesai download klik "instal now"
+    
 
-    Langkah berikut nya cek apakah python sudah terinstall/belum di device kita, cara ny buka CMD 3
+    
+![Screenshot (107)](https://user-images.githubusercontent.com/115615910/197952805-263d6cae-f377-4b35-a15a-329dc4621b34.png)
 
-    Sebelum ny bagi yg belum menginstall VScode bisa insstall di https://code.visualstudio.com
+    
 
-    Setelah menginstall VScode, langsung ke menu extension/ctrl+shift+X, search python yang sudah centang lalu klik install 4
+    5. Tunggu sampai proses selesai.
+    
+    
+![Screenshot (108)](https://user-images.githubusercontent.com/115615910/197953046-5e17ed22-294b-4531-88a8-b41e3e406ba4.png)
 
-    Sesudah menginstall extension, python siap digunakan. Untuk menjalankan program klik run/tombol play di pojok kiri 5
+    
 
-    Dasar syntax pada python
+   6. Jika sudah selesai klik tombol close lalu cari python pada menu windows
+   
+   
+![Screenshot (109)](https://user-images.githubusercontent.com/115615910/197953355-7bd4e5a8-8b69-4335-b327-f2c496be148d.png)
 
-    Penulisan Statement Python
+   
+   
 
-    Penulisan satu statement tidak diakhiri dengan tanda titik-koma.
+    7. Selamat python selesai terinstal dan siap digunakan
+    
+![Screenshot (110)](https://user-images.githubusercontent.com/115615910/197953621-a28579af-da5d-4a90-9fd4-d0433e86d34f.png)
+ 
+    
+    
 
-    Sedangkan, bila kita ingin menulis lebih dari satu statement dalam satu baris, maka kita harus memisahnya dengan titik-koma.
+    8. Setelah Menginstal python dilanjutkan mendownload VScode, VScode bisa insstall di https://code.visualstudio.com
 
-    Penulisan String pada Python
+    9. Setelah VScode terinstal, langsung menuju menu extension atau tekan ctrl+shift+X, search python yang sudah centang lalu klik instal
+    
+![Screenshot (125)](https://user-images.githubusercontent.com/115615910/197955217-b0aff8a0-3c2c-4228-8f7e-f2c44b9e924a.png)
 
-    String dalam pemrograman biasanya ditulis dengan dibungkus menggunakan tanda petik.
+    
+    
+    10. Jika extension selesai terinstal maka python siap digunakan Untuk menjalankan program klik run/tombol play di pojok kiri 5
+    
+ ![Screenshot (111)](https://user-images.githubusercontent.com/115615910/197955603-57872dce-f34e-465a-9e7e-a64d157f481a.png)
+   
+    
+    
+    
 
-    Bisa menggunakan tanda petik tunggal maupun ganda.
-
-    Atau kita juga bisa menggunakan triple tanda petik.
-
-Syntax Dasar Python
-
-    Case Sensitive
-
-    Sintak Python bersifat case sensitive, artinya huruf besar dengna huruf kecil dibedakan
-
-    Penulisan Blok Program Python
-
-    Blok program adalah kumpulan dari beberpaa statement yang digabungkan dalam satu blok.
-
-    Penulisan blok program harus ditambahkan indentasi (tab atau spasi 2x/4x).
-
-    Penulisan Komentar pada Python
-
-    Menggunakan tanda pagar (#)
+  
 
